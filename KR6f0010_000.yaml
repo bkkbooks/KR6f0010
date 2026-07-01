@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0010/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 文殊師利佛土嚴淨經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T11/T11n0318.xml
+    old_id: T11n0318
+hash: sha256:f5bb5aa89b70b74c5cea2f90a7f257b59f5e48975361fc5bcc842b4f9ca9f1ea

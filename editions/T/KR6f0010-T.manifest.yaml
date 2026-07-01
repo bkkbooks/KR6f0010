@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6f0010/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0010/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 文殊師利佛土嚴淨經
+  identifiers:
+    krp: KR6f0010
+    cbeta: T11n0318
+    cbeta_old_id: T11n0318
+    authorityid: CA0003359
+    json_key: T0318
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T11/T11n0318.xml
+    old_id: T11n0318
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0010_000-T.yaml, hash: 'sha256:f5bb5aa89b70b74c5cea2f90a7f257b59f5e48975361fc5bcc842b4f9ca9f1ea'}
+  - {seq: 1, filename: KR6f0010_001-T.yaml, hash: 'sha256:da690b76397d60e38508dc56401fb7a20c2e1defc58261ad5de2e22276068569'}
+  - {seq: 2, filename: KR6f0010_002-T.yaml, hash: 'sha256:4834fc85f7ef78cfe98313f65794fee0786e5e314d05332f93e2eef596f4a469'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0010_000-T.markers.yaml, hash: 'sha256:64932d1fb9e5429cf8a1962e2b49f1a2ce104a6613c49e855e5c42b2295e80d9'}
+  - {seq: 1, role: markers, filename: assets/KR6f0010_001-T.markers.yaml, hash: 'sha256:70b56d1406ceb0b9c13618f3f02cd3b4564f0b18bb232b1478b62311f30a1ead'}
+  - {seq: 2, role: markers, filename: assets/KR6f0010_002-T.markers.yaml, hash: 'sha256:acea5549fb4a5f175200448fe9d631bd968c1f87982da85a7543ccd77cdd7314'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0010_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7645
+  label: 文殊師利佛土嚴淨經卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0010_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7610
+  label: 文殊師利佛土嚴淨經卷下
+  type: juan
+  level: 1
+hash: sha256:35d8d5aa06974c70ba2a5ee031a1a415229f0934d20821f390f9f154590f263d
