@@ -40,7 +40,7 @@ assets:
   - {seq: 1, filename: KR6f0010_001.yaml, hash: 'sha256:9033d46d861be1db44480bd1feb54079506fecebd35603c68789af4fe318f219'}
   - {seq: 2, filename: KR6f0010_002.yaml, hash: 'sha256:ab2131f140eb08435f8a566dfcfeefaf56097d6f6b3bc45fe168d2453e545fb0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0010_000.markers.yaml, hash: 'sha256:998291f2b6cb504379c5083d04e9c4c6a9feca37a0550409b95f1acbf867fa17'}
+  - {seq: 0, role: markers, filename: assets/KR6f0010_000.markers.yaml, hash: 'sha256:6effd4e96fb906e2ff6460675e7aab5a4bfeef334591c1e469a434f4e2bba512'}
   - {seq: 1, role: markers, filename: assets/KR6f0010_001.markers.yaml, hash: 'sha256:290c16f1ab18f1d91cfba27a023a6d79c8f4ba50cafe0c38d6e17d3f1cce1044'}
   - {seq: 2, role: markers, filename: assets/KR6f0010_002.markers.yaml, hash: 'sha256:00f199b6fdf8c49e2db568b639c3ce23c183417aa43ad2cdeb36e96fbcff6208'}
 table_of_contents:
@@ -64,7 +64,7 @@ table_of_contents:
   label: 文殊師利佛土嚴淨經卷下
   type: juan
   level: 1
-hash: sha256:63e3c85c90bdf439b1d86b706f1ea3b45250c8b4b04efebc3a3d67328bd8af5b
+hash: sha256:3024800591556539e268baf580e032009c647759d875aaf563671e7cd35aa15d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

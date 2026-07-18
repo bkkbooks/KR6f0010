@@ -23,7 +23,7 @@ assets:
   - {seq: 1, filename: KR6f0010_001-T.yaml, hash: 'sha256:da690b76397d60e38508dc56401fb7a20c2e1defc58261ad5de2e22276068569'}
   - {seq: 2, filename: KR6f0010_002-T.yaml, hash: 'sha256:4834fc85f7ef78cfe98313f65794fee0786e5e314d05332f93e2eef596f4a469'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0010_000-T.markers.yaml, hash: 'sha256:64932d1fb9e5429cf8a1962e2b49f1a2ce104a6613c49e855e5c42b2295e80d9'}
+  - {seq: 0, role: markers, filename: assets/KR6f0010_000-T.markers.yaml, hash: 'sha256:ba0b699a30a943de5a54c0eca7655320fd8494da8387875913ba884ebf996448'}
   - {seq: 1, role: markers, filename: assets/KR6f0010_001-T.markers.yaml, hash: 'sha256:70b56d1406ceb0b9c13618f3f02cd3b4564f0b18bb232b1478b62311f30a1ead'}
   - {seq: 2, role: markers, filename: assets/KR6f0010_002-T.markers.yaml, hash: 'sha256:acea5549fb4a5f175200448fe9d631bd968c1f87982da85a7543ccd77cdd7314'}
 table_of_contents:
@@ -47,4 +47,4 @@ table_of_contents:
   label: 文殊師利佛土嚴淨經卷下
   type: juan
   level: 1
-hash: sha256:35d8d5aa06974c70ba2a5ee031a1a415229f0934d20821f390f9f154590f263d
+hash: sha256:eabdb18ce3877ad436aace22627d4b04a58ca24bc67e182d26562aa83ed2143e
